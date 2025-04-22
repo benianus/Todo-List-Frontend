@@ -1,0 +1,149 @@
+body {
+    background-color: rgba(4, 4, 121, 0.897);
+    font-family: "Readex Pro", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.global-container {
+    width: 100%;
+    margin-top: 150px;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.secondary-container {
+    width: 60%;
+}
+
+.navbar {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(144, 201, 252);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-container {
+    width: 50%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.title {
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.add-btn-container {
+    width: 50%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding-right: 16px;
+}
+
+.add-btn {
+    border: solid 1px;
+    border-radius: 8px;
+}
+
+.content {
+    width: 100%;
+    background-color: rgb(235, 233, 233);
+}
+
+.table,
+td {
+    direction: rtl;
+    border-bottom: solid 1px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.table-container {
+    width: 100%;
+    padding: 16px;
+}
+
+.task-title {
+    font-size: large;
+    font-weight: bold;
+    margin: 0%;
+}
+
+.task-date {
+    font-size: smaller;
+    font-weight: 100;
+    margin: 0%;
+}
+
+.task-data {
+    width: 55%;
+    text-align: right;
+}
+
+.task-action {
+    width: 15%;
+}
+
+.rounded-button {
+    border: solid 1px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.rounded-button:hover {
+    background-color: orange;
+}
+
+.table-row {
+    box-shadow: none;
+    transition: all 500ms;
+}
+
+.table-row:hover {
+    box-shadow: 0px 0px 5px rgb(2, 2, 2);
+}
+
+.date-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.date-container>img {
+    margin-left: 4px;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24;
+    color: black;
+}
+
+.close-btn {
+    background-color: red;
+}
+
+.rounded-button.green-btn {
+    background-color: green;
+}
+
+.done-task>td {
+    background-color: rgba(255, 166, 0, 0.212);
+}
