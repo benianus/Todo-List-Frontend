@@ -9,6 +9,5 @@
 <p>و الخطوة القادمة بإذن الله المفاهيم المتقدمة في اللغة و كيفية التعامل مع الـ APIs</p>
 <p>وفقنا الله لما يحبه و يرضاه.</p>
 <p>#أكاديمية_ترميز</p>
-![image](https://github.com/user-attachments/assets/5ccde6f1-bce8-4619-82aa-52b7f2219d96)
-
+<img src="https://github.com/user-attachments/assets/5ccde6f1-bce8-4619-82aa-52b7f2219d96">
 </br><a href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7320416246921928705" style="display: block">Linkedin Post</a>
